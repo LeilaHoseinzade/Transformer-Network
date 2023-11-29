@@ -1,5 +1,5 @@
 # [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) course on Coursera
-Some of the programming projects from the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) course are available here. This series of courses is offered by deeplearning.ai and Andrew Ng is the instructor.  
+Some of the programming projects from the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) course are available here. This series of courses is offered by [deeplearning.ai](https://www.deeplearning.ai/) and Andrew Ng is the instructor.  
 
 # Credit
 This repo is my work for [Deep learning specialization](https://www.coursera.org/specializations/deep-learning) projects and the code base was taken from Corsera's Deepl Learning Specialization.
