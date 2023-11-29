@@ -28,9 +28,7 @@ Decoder Block    <img width="590" alt="decoder" src="https://github.com/LeilaHos
 Decoder Layer   <img width="429" alt="decoder_layer" src="https://github.com/LeilaHoseinzade/Transformer-Network/assets/80057332/136c1163-4d33-41bb-a6c1-cf70d48b9a48">
 
 
-
-
-    Transformer Network   <img width="650" alt="transformer" src="https://github.com/LeilaHoseinzade/Transformer-Network/assets/80057332/53e87a1d-2952-47ac-bc3d-5adae4106eb3">       
+Transformer Network <img width="650" alt="transformer" src="https://github.com/LeilaHoseinzade/Transformer-Network/assets/80057332/53e87a1d-2952-47ac-bc3d-5adae4106eb3">       
 
 # Recomendations
 The specialization contains five courses, from beginner level to advanced level. It is a very well-structured course and the projects give you hands-on experience on topics. It is highly recommended.
