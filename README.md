@@ -10,7 +10,9 @@ This is an illustration of the building blocks of the transformer Network. In th
 
 
 <img width="987" alt="self-attention" src="https://github.com/LeilaHoseinzade/Transformer-Network/assets/80057332/f8326d4e-a1b8-4326-bdc8-5cbebc8be268">
-<figcaption>"Self-Attention"</figcaption>
+<figcaption> 
+  "Self-Attention" 
+</figcaption>
 
 
 
