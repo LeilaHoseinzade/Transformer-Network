@@ -8,7 +8,8 @@ This repo is my work for [Deep learning specialization](https://www.coursera.org
 This is an illustration of the building blocks of the transformer Network. In this project, the transformer network was applied for a machine translation task. The images are taken from the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)-Sequence Models course.
 
 <figure markdown>
-  ![Self-Attention](https://github.com/LeilaHoseinzade/Transformer-Network/assets/80057332/f8326d4e-a1b8-4326-bdc8-5cbebc8be268){ width="987" }
+  ![Self-Attention]<img width="987" alt="self-attention" src="https://github.com/LeilaHoseinzade/Transformer-Network/assets/80057332/e38e0703-fa7e-472c-afbe-df8710fc7580">
+
   <figcaption>Image caption</figcaption>
 </figure>
 
