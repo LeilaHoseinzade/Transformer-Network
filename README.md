@@ -1,5 +1,5 @@
 # Transformer Network Project
-This project is part of the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) #Sequence Models course on Coursera. These series of courses are offered by [deeplearning.ai](https://www.deeplearning.ai/) and Andrew Ng is the instructor.  
+This project is part of the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)-Sequence Models course on Coursera. These series of courses are offered by [deeplearning.ai](https://www.deeplearning.ai/) and Andrew Ng is the instructor.  
 
 # Credit
 This repo is my work for [Deep learning specialization](https://www.coursera.org/specializations/deep-learning) Sequence models- Transformer Network project and the code base was taken from Corsera's [Deepl Learning Specialization](https://www.coursera.org/specializations/deep-learning).
