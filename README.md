@@ -5,7 +5,7 @@ This project is part of the [Deep Learning Specialization](https://www.coursera.
 This repo is my work for [Deep learning specialization](https://www.coursera.org/specializations/deep-learning) Sequence models- Transformer Network project and the code base was taken from Corsera's [Deepl Learning Specialization](https://www.coursera.org/specializations/deep-learning).
 
 # Transformer Network Architecture
-This is an illustration of the building blocks of the transformer Network. In this project, the transformer network was built step by step. The images are taken from the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)-Sequence Models course.
+This is an illustration of the building blocks of the transformer Network. In this project, the transformer network was built step by step. The figures are taken from the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)-Sequence Models course.
 
 
   Self-Attention<img width="650" alt="self-attention" src="https://github.com/LeilaHoseinzade/Transformer-Network/assets/80057332/e38e0703-fa7e-472c-afbe-df8710fc7580">
